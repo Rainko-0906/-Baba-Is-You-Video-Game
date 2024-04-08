@@ -6,4 +6,5 @@ Make sure Pygame and python_ta is installed in your environment,
 if not, running the following command in your terminal:
    
    pip install pygame
+   
    pip install python_ta
